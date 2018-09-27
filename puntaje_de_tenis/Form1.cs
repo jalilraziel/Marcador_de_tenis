@@ -106,9 +106,22 @@ namespace puntaje_de_tenis
         {
             label1.Text = save.save1; label2.Text = save.save2; label3.Text = save.save3;
             label4.Text = save.save4; label5.Text = save.save5; label6.Text = save.save6;
-            if (save.jugador == true) A--; //jugador "A" metio el ultimo punto
-            else B--; //jugador "A" metio el ultimo punto
- 
+            if (A == 0 || B == 0)
+            {
+                if (A == 0)
+                {
+                    A = 4;
+                }
+                else
+                {
+                    B = 4;
+                }
+            }
+            else
+            {
+                if (save.jugador == true) A--; //jugador "A" metio el ultimo punto
+                else B--; //jugador "A" metio el ultimo punto
+            }
             button3.Enabled = false;
         }
     }
