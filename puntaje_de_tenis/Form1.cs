@@ -110,17 +110,20 @@ namespace puntaje_de_tenis
             {
                 if (A == 0)
                 {
-                    A = 4;
+                    if (save.jugador == true)
+                    {
+                        A = 4;
+                    }
                 }
                 else
                 {
-                    B = 4;
+                    if (save.jugador == false)
+                    {
+                        B = 4;
+                    }
                 }
-            }
-            else
-            {
-                if (save.jugador == true) A--; //jugador "A" metio el ultimo punto
-                else B--; //jugador "A" metio el ultimo punto
+                if (save.jugador == true) { A--; } //jugador "A" metio el ultimo punto
+                else { B--; } //jugador "A" metio el ultimo punto
             }
             button3.Enabled = false;
         }

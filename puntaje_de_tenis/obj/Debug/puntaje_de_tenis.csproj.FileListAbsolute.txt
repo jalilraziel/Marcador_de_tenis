@@ -8,3 +8,13 @@ C:\Users\Jalil Raziel\Desktop\proyectos\puntaje_de_tenis\puntaje_de_tenis\obj\De
 C:\Users\Jalil Raziel\Desktop\proyectos\puntaje_de_tenis\puntaje_de_tenis\obj\Debug\puntaje_de_tenis.csproj.CoreCompileInputs.cache
 C:\Users\Jalil Raziel\Desktop\proyectos\puntaje_de_tenis\puntaje_de_tenis\obj\Debug\puntaje_de_tenis.exe
 C:\Users\Jalil Raziel\Desktop\proyectos\puntaje_de_tenis\puntaje_de_tenis\obj\Debug\puntaje_de_tenis.pdb
+C:\Users\Jalil Raziel\Desktop\proyectos\Marcador_de_tenis\puntaje_de_tenis\bin\Debug\puntaje_de_tenis.exe.config
+C:\Users\Jalil Raziel\Desktop\proyectos\Marcador_de_tenis\puntaje_de_tenis\bin\Debug\puntaje_de_tenis.exe
+C:\Users\Jalil Raziel\Desktop\proyectos\Marcador_de_tenis\puntaje_de_tenis\bin\Debug\puntaje_de_tenis.pdb
+C:\Users\Jalil Raziel\Desktop\proyectos\Marcador_de_tenis\puntaje_de_tenis\obj\Debug\puntaje_de_tenis.csprojAssemblyReference.cache
+C:\Users\Jalil Raziel\Desktop\proyectos\Marcador_de_tenis\puntaje_de_tenis\obj\Debug\puntaje_de_tenis.Form1.resources
+C:\Users\Jalil Raziel\Desktop\proyectos\Marcador_de_tenis\puntaje_de_tenis\obj\Debug\puntaje_de_tenis.Properties.Resources.resources
+C:\Users\Jalil Raziel\Desktop\proyectos\Marcador_de_tenis\puntaje_de_tenis\obj\Debug\puntaje_de_tenis.csproj.GenerateResource.cache
+C:\Users\Jalil Raziel\Desktop\proyectos\Marcador_de_tenis\puntaje_de_tenis\obj\Debug\puntaje_de_tenis.csproj.CoreCompileInputs.cache
+C:\Users\Jalil Raziel\Desktop\proyectos\Marcador_de_tenis\puntaje_de_tenis\obj\Debug\puntaje_de_tenis.exe
+C:\Users\Jalil Raziel\Desktop\proyectos\Marcador_de_tenis\puntaje_de_tenis\obj\Debug\puntaje_de_tenis.pdb
